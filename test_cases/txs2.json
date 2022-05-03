@@ -1,0 +1,32 @@
+{
+    "txs": [
+      {
+        "txid": 1,
+        "buytype": "EUR",
+        "selltype": "USD",
+        "sellamount": 2,
+        "selllimitPrice": 0.9
+      },
+      {
+        "txid": 2,
+        "buytype": "EUR",
+        "selltype": "USD",
+        "sellamount": 6,
+        "selllimitPrice": 0.8
+      }, 
+      {
+        "txid": 3,
+        "buytype": "USD",
+        "selltype": "EUR",
+        "sellamount": 2,
+        "selllimitPrice": 1.1
+      },
+      {
+        "txid": 4,
+        "buytype": "USD",
+        "selltype": "EUR",
+        "sellamount": 3,
+        "selllimitPrice": 1.2
+      }
+    ]
+  }

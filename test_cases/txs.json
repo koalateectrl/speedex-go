@@ -1,0 +1,26 @@
+{
+    "txs": [
+      {
+        "txid": 1,
+        "buytype": "ETH",
+        "selltype": "USDT",
+        "sellamount": 6000,
+        "selllimitPrice": 0.00025
+      },
+      {
+        "txid": 2,
+        "buytype": "ETH",
+        "selltype": "USDT",
+        "sellamount": 5000,
+        "selllimitPrice": 0.0002
+      }, 
+      {
+        "txid": 3,
+        "buytype": "USDT",
+        "selltype": "ETH",
+        "sellamount": 2,
+        "selllimitPrice": 4200
+      }
+    ]
+  }
+  
